@@ -1,0 +1,67 @@
+{
+    "categories": [
+        {
+            "cate_id": "c1",
+            "cate_name": "phone",
+            "products": [
+                {
+                    "product_id": "p1",
+                    "product_name": "Samsung 1",
+                    "unit_price": 100
+                },
+                {
+                    "product_id": "p2",
+                    "product_name": "Samsung 2",
+                    "unit_price": 400
+                },
+                {
+                    "product_id": "p3",
+                    "product_name": "Samsung 3",
+                    "unit_price": 200
+                }
+            ]
+        },
+        {
+            "cate_id": "c2",
+            "cate_name": "computer",
+            "products": [
+                {
+                    "product_id": "p4",
+                    "product_name": "DELL 1",
+                    "unit_price": 2500
+                },
+                {
+                    "product_id": "p5",
+                    "product_name": "DELL 2",
+                    "unit_price": 3561
+                },
+                {
+                    "product_id": "p6",
+                    "product_name": "DELL 3",
+                    "unit_price": 4560
+                }
+            ]
+        },
+        {
+            "cate_id": "c3",
+            "cate_name": "television",
+            "products": [
+                {
+                    "product_id": "p7",
+                    "product_name": "Tele 1",
+                    "unit_price": 6324
+                },
+                {
+                    "product_id": "p8",
+                    "product_name": "Tele 2",
+                    "unit_price": 1203
+                },
+                {
+                    "product_id": "p9",
+                    "product_name": "Tele 3",
+                    "unit_price": 2536
+                }
+            ]
+        }
+    ]
+}
