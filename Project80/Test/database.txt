@@ -1,0 +1,7 @@
+112;Khoai Tây Lắc;796.0
+SP2;Bưởi Thanh Thản ;18.0
+SP1;CocaCola;15.5
+SP3;Bia 333;14.5
+SP5;Chè Hạt Sầu Riêng;999.0
+SP9;Muối Hạt Dưa;236.0
+12;Hoa Hồng Khô;96.0
