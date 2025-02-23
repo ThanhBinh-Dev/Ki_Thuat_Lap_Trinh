@@ -1,0 +1,44 @@
+[
+    {
+        "EmployeeId": "E1",
+        "EmployeeName": "Tèo",
+        "UserName": "teo",
+        "Password": "123"
+    },
+    {
+        "EmployeeId": "E2",
+        "EmployeeName": "Tí",
+        "UserName": "ti",
+        "Password": "545"
+    },
+    {
+        "EmployeeId": "E3",
+        "EmployeeName": "Tủn",
+        "UserName": "tun",
+        "Password": "456"
+    },
+    {
+        "EmployeeId": "E4",
+        "EmployeeName": "Bin",
+        "UserName": "bin",
+        "Password": "789"
+    },
+    {
+        "EmployeeId": "E5",
+        "EmployeeName": "Bo",
+        "UserName": "bo",
+        "Password": "12/"
+    },
+    {
+        "EmployeeId": "E6",
+        "EmployeeName": "Nu",
+        "UserName": "nu",
+        "Password": "123dfs"
+    },
+    {
+        "EmployeeId": "E7",
+        "EmployeeName": "Na",
+        "UserName": "na",
+        "Password": "234sdf"
+    }
+]

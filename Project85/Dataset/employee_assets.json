@@ -1,0 +1,57 @@
+[
+    {
+        "EmployeeId": "E1",
+        "AssetId": "AS1",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E2",
+        "AssetId": "AS2",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E3",
+        "AssetId": "AS3",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E4",
+        "AssetId": "AS4",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E5",
+        "AssetId": "AS5",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E6",
+        "AssetId": "AS6",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E1",
+        "AssetId": "AS3",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E1",
+        "AssetId": "AS7",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E3",
+        "AssetId": "AS2",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E5",
+        "AssetId": "AS5",
+        "Role": "Main"
+    },
+    {
+        "EmployeeId": "E4",
+        "AssetId": "AS3",
+        "Role": "Main"
+    }
+]
