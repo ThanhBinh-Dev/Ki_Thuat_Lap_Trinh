@@ -29,7 +29,7 @@ def create_sunburst_chart(df_cleaned, output_html_path):
     fig = px.sunburst(df_cleaned,
                       path=["Học Kỳ Hiển Thị", "Loại môn học", "Tên học phần"],
                       values="Giá trị Học Kỳ",
-                      title="Phân bổ chương trình đào tạo của 406H",
+                      title="Biểu đồ tròn chương trình đào tạo của 406H",
                       branchvalues="total")
     fig.update_traces(marker=dict(line=dict(width=1)))
     fig.write_html(output_html_path, include_plotlyjs="cdn")
